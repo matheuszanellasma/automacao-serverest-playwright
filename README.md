@@ -1,6 +1,6 @@
 [![CI](https://github.com/matheuszanellasma/automacao-serverest-playwright/actions/workflows/push.yml/badge.svg)](https://github.com/matheuszanellasma/automacao-serverest-playwright/actions)
 
-# 🎭 Automação de Testes ServeRest com Playwright
+# 🎭 Automação de Testes - WEB e API da ServeRest com Playwright
 
 ## 💻 Sobre o projeto
 Este repositório contém o projeto de automação de testes **de API e Web (UI)** para a aplicação **ServeRest**, uma aplicação pública utilizada para prática de testes de software. O objetivo deste projeto é garantir a qualidade, estabilidade e o funcionamento correto tanto dos endpoints da API quanto dos principais fluxos da interface web da aplicação.
