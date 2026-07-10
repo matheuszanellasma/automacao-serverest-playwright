@@ -55,4 +55,4 @@ npx playwright test --ui
 ```
 
 ## 👤 Autor
-* **Matheus Koehler Zanella** - Quality Assurance Engineer
+* **Matheus Koehler Zanella** - Quality Assurance Engineer 
