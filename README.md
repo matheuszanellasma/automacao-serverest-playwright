@@ -12,7 +12,8 @@ Neste projeto, utilizamos as seguintes ferramentas:
 - **[Playwright](https://playwright.dev/)**
 - **Padrão de Projeto:**  API Client Pattern (API) e Page Object Model (Web)
 - **Faker.js:** geração dinâmica de dados de teste, aumentando a cobertura de variações
-- **Fixtures customizadas:** setup e reuso de contexto (autenticação, clientes de API) entre os testes
+- **Bypass de login via API:** suítes de produto autenticam via API e injetam a sessão diretamente no navegador (`localStorage`), evitando depender da tela de login para testar outras funcionalidades
+- **Isolamento e limpeza de dados:** cada suíte cria seus próprios dados de teste e realiza a limpeza ao final da execução, evitando resíduos no banco de dados e dependência entre execuções
 
 ## 🌐 Ambiente de Testes
 🔗 **Aplicação Web:** [ServeRest Front-end](https://front.serverest.dev/)
